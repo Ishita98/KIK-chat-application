@@ -1,0 +1,6 @@
+Execution Steps:
+
+1. Connect client machines to server
+2. Allocate appropriate server ip address in server and client code
+3. Run server code using 'python server.py'
+4. Run client code using 'python client.py'
